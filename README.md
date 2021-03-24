@@ -1,3 +1,3 @@
 # mrlzzz.github.io
 
-Personal portfolio
+Personal portfolio placeholder. Work in progress.
